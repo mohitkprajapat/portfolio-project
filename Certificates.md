@@ -30,3 +30,7 @@ This lists 8 certified courses focused on building AI agents using LangChain, La
 
 8. **LangChain for LLM Application Development**  
    <a href="https://learn.deeplearning.ai/accomplishments/60dd66b1-6d85-4aa7-81c1-d74248491782?usp=sharing" target="_blank">View Verification</a>
+
+---
+
+Tip: Ctrl+Click (or Cmd+Click) to open verification links in a new tab
