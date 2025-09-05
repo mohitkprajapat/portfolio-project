@@ -1,7 +1,5 @@
-# Agentic AI & LLM Systems Specialization  
-**by DeepLearning.AI**
-
-This lists 8 certified courses focused on building AI agents using LangChain, LangGraph, crewAI, AutoGen, and vector databases.
+# Machine Learning Specializations  
+**by Stanford University and DeepLearning.AI**
 
 ---
 
