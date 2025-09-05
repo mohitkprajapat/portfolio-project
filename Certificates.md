@@ -7,6 +7,22 @@ This lists 8 certified courses focused on building AI agents using LangChain, La
 
 ## Verification Links
 
+1. **Deep Learning Specialization**  
+   <a href="https://coursera.org/share/a9a0c91a74ca716cd8acd491bc53b757" target="_blank">View Verification</a>
+
+2. **Machine Learning Specialization**  
+   <a href="https://coursera.org/share/01d074e7ea1d541e633ecf0725099fa0" target="_blank">View Verification</a>
+
+
+# Agentic AI & LLM Systems Specialization  
+**by DeepLearning.AI**
+
+This lists 8 certified courses focused on building AI agents using LangChain, LangGraph, crewAI, AutoGen, and vector databases.
+
+---
+
+## Verification Links
+
 1. **Long-Term Agentic Memory with LangGraph**  
    <a href="https://learn.deeplearning.ai/accomplishments/cceb33d7-e60b-4239-b6d5-5bd4b228c575?usp=sharing" target="_blank">View Verification</a>
 
